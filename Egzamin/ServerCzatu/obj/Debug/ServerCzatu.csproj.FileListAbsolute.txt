@@ -1,0 +1,7 @@
+F:\studia\Sem IV\dotnet\ServerCzatu\bin\Debug\ServerCzatu.exe.config
+F:\studia\Sem IV\dotnet\ServerCzatu\bin\Debug\ServerCzatu.exe
+F:\studia\Sem IV\dotnet\ServerCzatu\bin\Debug\ServerCzatu.pdb
+F:\studia\Sem IV\dotnet\ServerCzatu\obj\Debug\ServerCzatu.csproj.AssemblyReference.cache
+F:\studia\Sem IV\dotnet\ServerCzatu\obj\Debug\ServerCzatu.csproj.CoreCompileInputs.cache
+F:\studia\Sem IV\dotnet\ServerCzatu\obj\Debug\ServerCzatu.exe
+F:\studia\Sem IV\dotnet\ServerCzatu\obj\Debug\ServerCzatu.pdb

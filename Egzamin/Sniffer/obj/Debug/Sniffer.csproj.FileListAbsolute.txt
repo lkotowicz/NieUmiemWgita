@@ -1,0 +1,7 @@
+F:\studia\Sem IV\dotnet\Sniffer\bin\Debug\Sniffer.exe.config
+F:\studia\Sem IV\dotnet\Sniffer\bin\Debug\Sniffer.exe
+F:\studia\Sem IV\dotnet\Sniffer\bin\Debug\Sniffer.pdb
+F:\studia\Sem IV\dotnet\Sniffer\obj\Debug\Sniffer.csproj.AssemblyReference.cache
+F:\studia\Sem IV\dotnet\Sniffer\obj\Debug\Sniffer.csproj.CoreCompileInputs.cache
+F:\studia\Sem IV\dotnet\Sniffer\obj\Debug\Sniffer.exe
+F:\studia\Sem IV\dotnet\Sniffer\obj\Debug\Sniffer.pdb

@@ -1,0 +1,7 @@
+F:\studia\Sem IV\dotnet\Klient2\bin\Debug\Klient2.exe.config
+F:\studia\Sem IV\dotnet\Klient2\bin\Debug\Klient2.exe
+F:\studia\Sem IV\dotnet\Klient2\bin\Debug\Klient2.pdb
+F:\studia\Sem IV\dotnet\Klient2\obj\Debug\Klient2.csproj.AssemblyReference.cache
+F:\studia\Sem IV\dotnet\Klient2\obj\Debug\Klient2.csproj.CoreCompileInputs.cache
+F:\studia\Sem IV\dotnet\Klient2\obj\Debug\Klient2.exe
+F:\studia\Sem IV\dotnet\Klient2\obj\Debug\Klient2.pdb
